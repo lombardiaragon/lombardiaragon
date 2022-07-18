@@ -1,4 +1,5 @@
 ### Hi there 👋
+![logoOscuroFedeVertical](https://user-images.githubusercontent.com/98650398/179430847-56a15e98-15df-4160-8103-19b44b18a02c.png)
 
 <!--
 **lombardiaragon/lombardiaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
