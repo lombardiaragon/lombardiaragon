@@ -1,7 +1,8 @@
+<img width="809" height="248" alt="Image" src="https://github.com/user-attachments/assets/e32b2867-405c-43c8-bbc3-6317100e36cb" />
+
+<br>
+
 # Hey, I'm Federico 👋
-<br>
-<img margin-bottom='20px' width="809" height="248" alt="Image" src="https://github.com/user-attachments/assets/e32b2867-405c-43c8-bbc3-6317100e36cb" />
-<br>
 Frontend developer based in Lourdes, France — originally from Rosario, Argentina.
 Self-taught, building real things with React. I care about how things work, how they look, and how well they solve the actual problem.---
 
