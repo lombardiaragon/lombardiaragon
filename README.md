@@ -1,17 +1,38 @@
 ### Hi there 👋
 ![logoOscuroFedeVertical](https://user-images.githubusercontent.com/98650398/179430847-56a15e98-15df-4160-8103-19b44b18a02c.png)
 
-<!--
-**lombardiaragon/lombardiaragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Federico 👋
 
-Here are some ideas to get you started:
+Frontend developer based in Toulouse, France — originally from Buenos Aires.
+Self-taught, building real things with React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work with
+
+**Main stack** — React · Vite · JavaScript · Tailwind CSS  
+**Also** — HTML/CSS · Bootstrap · WordPress · Git · REST APIs
+
+---
+
+### Currently
+
+- 🔨 Building my portfolio at [flombardi.dev](https://flombardi.dev)
+- 📖 Deepening React patterns and architecture
+- 👀 Open to work — remote, hybrid, or on-site · anywhere
+
+---
+
+### Projects
+
+| Project | Stack | Status |
+|--------|-------|--------|
+| [Client Financial Manager](#) | React · Vite · Tailwind · Context API | Live |
+| [React Ecommerce](#) | React · Router · CSS Modules | Live |
+| WordPress Local Business | WordPress · Custom theme | In progress |
+
+---
+
+### Find me
+
+[flombardi.dev](https://flombardi.dev) · [LinkedIn](https://linkedin.com/in/flombardi) · federico@flombardi.dev
