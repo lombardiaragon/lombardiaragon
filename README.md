@@ -1,5 +1,8 @@
 # Hey, I'm Federico 👋
+
 <img width="809" height="248" alt="Image" src="https://github.com/user-attachments/assets/e32b2867-405c-43c8-bbc3-6317100e36cb" />
+
+
 
 Frontend developer based in Toulouse, France — originally from Buenos Aires.
 Self-taught, building real things with React.
