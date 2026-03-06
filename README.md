@@ -1,7 +1,5 @@
-### Hi there 👋
-![logoOscuroFedeVertical](https://user-images.githubusercontent.com/98650398/179430847-56a15e98-15df-4160-8103-19b44b18a02c.png)
-
 # Hey, I'm Federico 👋
+<img width="809" height="248" alt="Image" src="https://github.com/user-attachments/assets/e32b2867-405c-43c8-bbc3-6317100e36cb" />
 
 Frontend developer based in Toulouse, France — originally from Buenos Aires.
 Self-taught, building real things with React.
