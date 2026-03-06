@@ -1,6 +1,6 @@
 # Hey, I'm Federico 👋
 
-<img width="809" height="248" alt="Image" src="https://github.com/user-attachments/assets/e32b2867-405c-43c8-bbc3-6317100e36cb" />
+<img margin-bottom='20px' width="809" height="248" alt="Image" src="https://github.com/user-attachments/assets/e32b2867-405c-43c8-bbc3-6317100e36cb" />
 
 
 
@@ -36,4 +36,4 @@ Self-taught, building real things with React.
 
 ### Find me
 
-[flombardi.dev](https://flombardi.dev) · [LinkedIn](https://linkedin.com/in/flombardi) · federico@flombardi.dev
+[flombardi.dev](https://flombardi.dev) · [LinkedIn](https://linkedin.com/in/flombardi) · flombardi.dev@gmail.com
